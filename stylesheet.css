@@ -1,0 +1,35 @@
+body {
+	font-family: 'Lato', sans-serif;
+}
+
+.content {
+	display: block;
+	margin: auto;
+	margin-left: 5%;
+	margin-right: 25%;
+	padding: 2%;
+}
+
+li {
+	padding: 0.75%;
+}
+
+p {
+	padding: 0.5%
+}
+
+a {
+	color: #0093C2;
+}
+
+.sidebar {
+	width: 25%;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	right: 0;
+	background-color: #f1f1f1;
+	height: 100%;
+	overflow-x: hidden;
+}
+
